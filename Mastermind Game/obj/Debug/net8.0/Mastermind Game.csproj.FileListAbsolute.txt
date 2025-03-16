@@ -1,0 +1,15 @@
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.AssemblyInfoInputs.cache
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.AssemblyInfo.cs
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.csproj.CoreCompileInputs.cache
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.sourcelink.json
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/bin/Debug/net8.0/Mastermind Game
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/bin/Debug/net8.0/Mastermind Game.deps.json
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/bin/Debug/net8.0/Mastermind Game.runtimeconfig.json
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/bin/Debug/net8.0/Mastermind Game.dll
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/bin/Debug/net8.0/Mastermind Game.pdb
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.dll
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/refint/Mastermind Game.dll
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.pdb
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/Mastermind Game.genruntimeconfig.cache
+/workspaces/Quadax-Programming-Exercise/Mastermind Game/obj/Debug/net8.0/ref/Mastermind Game.dll
